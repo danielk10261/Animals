@@ -1,0 +1,20 @@
+﻿body {
+    deriction: rtl;
+    background-color: #f0f8ff;
+    text-align: center;
+}
+table {
+    border-spacing: 10px;
+    border-collapse: collapse;
+    margin: 0px auto;
+    
+}
+.math {
+    background-color: #add8e6;
+}
+.mda{
+    background-color: #ffb6c1;
+}
+.phys {
+    background-color: #90ee90;
+}

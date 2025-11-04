@@ -77,6 +77,8 @@
     <Content Include="img\חץ למעלה.png" />
     <Content Include="moredog.html" />
     <Content Include="StyleSheet1.css" />
+    <Content Include="tablepage.html" />
+    <Content Include="tablesheet.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
