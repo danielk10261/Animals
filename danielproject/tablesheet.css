@@ -1,20 +1,23 @@
 ﻿body {
-    deriction: rtl;
     background-color: #f0f8ff;
     text-align: center;
 }
 table {
+    direction: rtl;
     border-spacing: 10px;
     border-collapse: collapse;
     margin: 0px auto;
-    
 }
 .math {
     background-color: #add8e6;
 }
-.mda{
-    background-color: #ffb6c1;
+.madmah {
+    background-color: #ff0000;
 }
 .phys {
     background-color: #90ee90;
 }
+.sifrut{
+    background-color: #ffffe0;
+}
+

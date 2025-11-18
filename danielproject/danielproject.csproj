@@ -68,13 +68,16 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="addlion.html" />
+    <Content Include="calculator.js" />
     <Content Include="elephantmore.html" />
     <Content Include="firstpage.html" />
+    <Content Include="HtmlPage1.html" />
     <Content Include="img\dog.jpg" />
     <Content Include="img\eleph.png" />
     <Content Include="img\Lion.png" />
     <Content Include="img\mta.png" />
     <Content Include="img\חץ למעלה.png" />
+    <Content Include="JavaScript.js" />
     <Content Include="moredog.html" />
     <Content Include="StyleSheet1.css" />
     <Content Include="tablepage.html" />
