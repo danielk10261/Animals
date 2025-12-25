@@ -1,10 +1,13 @@
-﻿
-var name = prompt("Enter your name:");
-document.write("Hello, " + name);
-var age = parseInt(prompt("Enter your age:"));
-document.write("next year you'll be:" + (age + 1))
-var num1 = parseInt(prompt("enter first num:"))
-var num2 = parseInt(prompt("enter second num:"))
-document.write("plus:" + (num1 * num2);
-document.write("minus:" + (num1 - num2));
-document.write("kefel:" + (num1 * num2));
+﻿function checkanswer() {
+    var number = parseInt(document.getElementById("num").value);
+    var number2 = parseInt(document.getElementById("num2").value);
+
+    alert(number + number2);
+}
+function randomnumber() {
+    var randomnum = parseInt(Math.random() * 10) + 1;
+    var randomnum2 = parseInt(Math.random() * 10) + 1;
+
+    document.getElementById("num").value = randomnum1;
+    document.getElementById("num2").value = randomnum2;
+}
